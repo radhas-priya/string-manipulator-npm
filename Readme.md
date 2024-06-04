@@ -1,4 +1,4 @@
-# string-manipulator
+# string-manipulation-latest
 
 A simple library for common string manipulation operations.
   reverseString,
@@ -18,7 +18,7 @@ A simple library for common string manipulation operations.
 ## Installation
 
 ```sh
-npm install string-manipulator
+npm install string-manipulation-latest
 
 
 
