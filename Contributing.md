@@ -1,12 +1,12 @@
-# Contributing to string-manipulator
+# Contributing to string-manipulation-latest
 
-Welcome to [Your Project Name]! We appreciate your interest in contributing. By contributing to this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
+Welcome  We appreciate your interest in contributing.
 
 ## How to Contribute
 
 We welcome contributions of all kinds, whether it's bug fixes, feature enhancements, documentation improvements, or anything else that helps make the project better.
 
-To contribute to [Your Project Name], follow these steps:
+To contribute to this project , follow these steps:
 
 1. Fork the repository on GitHub.
 2. Clone your forked repository to your local machine.
@@ -25,4 +25,4 @@ We'll review your pull request as soon as possible. If any changes are needed, w
 
 If you have any questions or need further assistance, feel free to reach out to the project maintainers at priyaaryark@gmail.com     (mailto:priyaaryark@gmail.com).
 
-Thank you for contributing to string-manipulator!
+Thank you for contributing to string-manipulation-latest!
