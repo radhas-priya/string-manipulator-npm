@@ -1,0 +1,20 @@
+{
+  "name": "string-manipulator",
+  "version": "1.0.0",
+  "description": "A library for common string manipulation operations",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "string",
+    "manipulation",
+    "utility"
+  ],
+  "author": "Priya Arya",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
+
